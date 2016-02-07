@@ -1,0 +1,22 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Cedric's Bedroom","order":3,"parentId":3,"scrollX":671.5,"scrollY":466},
+{"id":2,"expanded":true,"name":"Ark","order":1,"parentId":0,"scrollX":671.5,"scrollY":466},
+{"id":3,"expanded":true,"name":"Residential Hallway","order":2,"parentId":2,"scrollX":671.5,"scrollY":466},
+{"id":4,"expanded":true,"name":"Unclaimed Bedroom","order":4,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Bathroom","order":5,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"Unclaimed Bedroom","order":6,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":true,"name":"Unclaimed Bedroom","order":7,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Unclaimed Bedroom","order":8,"parentId":3,"scrollX":671.5,"scrollY":466},
+{"id":9,"expanded":true,"name":"Dining Hall","order":9,"parentId":2,"scrollX":671.5,"scrollY":466},
+{"id":10,"expanded":true,"name":"Mission Control","order":17,"parentId":18,"scrollX":774.5,"scrollY":982},
+{"id":11,"expanded":false,"name":"Research Lab","order":12,"parentId":17,"scrollX":663.5,"scrollY":494},
+{"id":12,"expanded":false,"name":"Common Area","order":10,"parentId":2,"scrollX":1151.5,"scrollY":982},
+{"id":13,"expanded":false,"name":"Power Core (Unlinked)","order":18,"parentId":18,"scrollX":1063.5,"scrollY":1462},
+{"id":14,"expanded":false,"name":"Casino","order":13,"parentId":17,"scrollX":1174.5,"scrollY":1173},
+{"id":15,"expanded":false,"name":"Hospital (Unlinked)","order":19,"parentId":18,"scrollX":1124.5,"scrollY":1242},
+{"id":16,"expanded":false,"name":"Item Shop","order":14,"parentId":17,"scrollX":671.5,"scrollY":466},
+{"id":17,"expanded":true,"name":"Recreation Hall","order":11,"parentId":2,"scrollX":671.5,"scrollY":466},
+{"id":18,"expanded":true,"name":"Basement Hallway","order":16,"parentId":2,"scrollX":671.5,"scrollY":466},
+{"id":19,"expanded":false,"name":"Holodeck","order":15,"parentId":17,"scrollX":671.5,"scrollY":466}
+]
