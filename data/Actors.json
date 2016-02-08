@@ -1,12 +1,12 @@
 [
 null,
 {"id":1,"battlerName":"cedric","characterIndex":0,"characterName":"cedric","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"cedric_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cedric","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"edgar","characterIndex":0,"characterName":"edgar","classId":11,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"edgar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Edgar","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"lydia","characterIndex":0,"characterName":"lydia","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"lydia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lydia","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"edgar","characterIndex":0,"characterName":"edgar","classId":2,"equips":[5,1,2,3,0],"faceIndex":0,"faceName":"edgar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Edgar","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"fiora","characterIndex":0,"characterName":"fiora","classId":11,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"fiora","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fiora","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"cid","characterIndex":0,"characterName":"cid","classId":8,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"cid","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cid","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"ayna","characterIndex":0,"characterName":"ayna","classId":20,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ayna","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ayna","nickname":"","note":"","profile":""},
-{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"ayna","characterIndex":0,"characterName":"ayna","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ayna","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ayna","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"lydia","characterIndex":0,"characterName":"lydia","classId":21,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"lydia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lydia","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"tina","characterIndex":0,"characterName":"tina","classId":8,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"tina","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tina","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
